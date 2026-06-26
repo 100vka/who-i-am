@@ -2,7 +2,7 @@
 
 hi i am 100vka i do many stuff codeing in .py .html and more....
 
-i am coder, game dev, moder
+i am coder, game dev, 3D artist
 
 # what i do
 
