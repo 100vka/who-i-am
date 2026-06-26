@@ -10,4 +10,4 @@ i do minecraft mods, discord bots, and microconroller stuff
 
 # my plans
 
-i am doing on a web page about me and stuff
+i am doing an fully free editing software
